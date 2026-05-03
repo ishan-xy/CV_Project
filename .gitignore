@@ -1,0 +1,11 @@
+__pycache__
+.venv
+.env
+*.pyc
+__pycache__/
+uploads/
+helper-others
+*.log
+.DS_Store
+*.dat
+*.h5
