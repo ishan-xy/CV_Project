@@ -107,3 +107,6 @@ uv run uvicorn services.api.app.main:app --reload --app-dir .
 * MongoDB
   
 ---
+## Smart Lock System
+<img width="1280" height="762" alt="image" src="https://github.com/user-attachments/assets/c49fec4c-b509-4c80-9733-5990f657122b" />
+
