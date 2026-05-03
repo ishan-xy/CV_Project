@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 import threading
 import subprocess
 
+
 load_dotenv()
 
 SECRET_KEY = os.getenv("CHECKIN_SECRET")
